@@ -1,0 +1,11 @@
+spring:
+  application:
+    name: spring-state-service
+  data:
+    mongodb:
+      uri: mongodb://localhost:27017/test
+
+
+
+server:
+  port: 8090
